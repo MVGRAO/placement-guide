@@ -44,8 +44,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl:
-            'https://github.com/your-github-username/placement-guide/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -53,8 +51,6 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl:
-            'https://github.com/your-github-username/placement-guide/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
