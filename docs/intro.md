@@ -1,47 +1,32 @@
----
+﻿---
 sidebar_position: 1
+title: Placement Prep Portal
 ---
 
-# Tutorial Intro
+Welcome to the **University Placement Guide**.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This portal is designed so seniors can publish practical placement preparation guides for juniors using simple Markdown files.
 
-## Getting Started
+## Subjects Covered
 
-Get started by **creating a new site**.
+- DSA
+- SQL
+- Java
+- Core Computer Science
+- Full Stack Development
+- AI / ML
+- Resume Preparation
+- Interview Preparation
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## How to Use This Website
 
-### What you'll need
+1. Open the left sidebar and pick a subject.
+2. Follow the weekly plan and resources in each page.
+3. Track daily updates in the blog section.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Quick Contributor Workflow
 
-## Generate a new site
+1. Add or edit Markdown files in `docs/`.
+2. Run `npm run start` and verify the page.
+3. Commit changes and open a pull request.
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

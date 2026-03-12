@@ -1,19 +1,20 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+﻿dsa:
+  label: DSA
+  permalink: /dsa
+  description: Data structures and algorithms preparation
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+sql:
+  label: SQL
+  permalink: /sql
+  description: SQL learning and interview preparation
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+placement:
+  label: Placement
+  permalink: /placement
+  description: Placement process and strategy updates
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+interview:
+  label: Interview
+  permalink: /interview
+  description: Interview round preparation updates
+
