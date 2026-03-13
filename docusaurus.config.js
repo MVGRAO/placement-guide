@@ -20,14 +20,14 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://placement-guide.vercel.app',
+  url: 'https://mvgrao.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/placement-guide/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-github-username', // Usually your GitHub org/user name.
+  organizationName: 'MVGRAO', // Usually your GitHub org/user name.
   projectName: 'placement-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -88,7 +88,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/your-github-username/placement-guide',
+            href: 'https://github.com/MVGRAO/placement-guide',
             label: 'GitHub',
             position: 'right',
           },
@@ -132,7 +132,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-github-username/placement-guide',
+                href: 'https://github.com/MVGRAO/placement-guide',
               },
             ],
           },
