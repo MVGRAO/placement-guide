@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'RGUKT Placement Guide',
   tagline: 'Official placement preparation portal for RGUKT students',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/rgukt.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
