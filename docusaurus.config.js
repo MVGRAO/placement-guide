@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'University Placement Guide',
-  tagline: 'Placement prep guides curated by seniors for juniors',
+  title: 'RGUKT Placement Guide',
+  tagline: 'Official placement preparation portal for RGUKT students',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -73,10 +73,10 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'Placement Guide',
+        title: 'RGUKT Placement Guide',
         logo: {
-          alt: 'University Placement Guide Logo',
-          src: 'img/logo.svg',
+          alt: 'RGUKT Logo',
+          src: 'img/rgukt.png',
         },
         items: [
           {to: '/', label: 'Home', position: 'left'},
@@ -95,7 +95,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
@@ -141,7 +141,6 @@ const config = {
       },
       prism: {
         theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
       },
     }),
 };

@@ -1,22 +1,22 @@
-﻿import clsx from 'clsx';
+import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Subject-Wise Roadmaps',
+    title: 'Structured Learning Paths',
     description:
-      'Prepare with structured tracks across DSA, SQL, Java, Core CS, Full Stack, and AI / ML.',
+      'Follow curated preparation tracks across DSA, SQL, Java, Core CS, Full Stack, and AI / ML.',
   },
   {
-    title: 'Daily Blog Updates',
+    title: 'Interview Insights',
     description:
-      'Seniors can share quick daily updates about interview rounds, patterns, and revision goals.',
+      'Access regular updates on interview patterns, coding rounds, and revision priorities shared by seniors.',
   },
   {
-    title: 'Markdown First',
+    title: 'Simple Content Workflow',
     description:
-      'Contributors only need to edit Markdown files to publish new guides. No frontend coding required.',
+      'Contributors can publish guides quickly through Markdown without requiring frontend development changes.',
   },
 ];
 
@@ -44,4 +44,3 @@ export default function HomepageFeatures() {
     </section>
   );
 }
-
