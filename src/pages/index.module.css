@@ -5,9 +5,8 @@
   overflow: hidden;
   background:
     radial-gradient(circle at 15% 14%, rgba(124, 31, 27, 0.14), transparent 40%),
-    radial-gradient(circle at 86% 12%, rgba(191, 154, 84, 0.2), transparent 36%),
-    linear-gradient(155deg, #ffffff 0%, #faf6f0 58%, #f8f3ed 100%);
-  border-bottom: 1px solid #e6ddd2;
+    linear-gradient(155deg, #ffffff 0%, #ffffff 100%);
+  border-bottom: 1px solid #e5e7eb;
 }
 
 .kicker {

@@ -8,11 +8,11 @@
   --ifm-color-primary-light: #982924;
   --ifm-color-primary-lighter: #aa332d;
   --ifm-color-primary-lightest: #c94a41;
-  --ifm-color-secondary: #f0ebe5;
-  --ifm-background-color: #fcfbf8;
+  --ifm-color-secondary: #f3f4f6;
+  --ifm-background-color: #ffffff;
   --ifm-background-surface-color: #ffffff;
   --ifm-navbar-background-color: #ffffff;
-  --ifm-footer-background-color: #f6f2ec;
+  --ifm-footer-background-color: #ffffff;
   --ifm-font-family-base: 'Source Sans 3', 'Segoe UI', sans-serif;
   --ifm-heading-font-family: 'Merriweather', 'Times New Roman', serif;
   --ifm-code-font-size: 94%;
@@ -23,15 +23,12 @@
 }
 
 body {
-  background:
-    radial-gradient(circle at 10% -20%, rgba(124, 31, 27, 0.08), transparent 36%),
-    radial-gradient(circle at 85% 8%, rgba(191, 154, 84, 0.1), transparent 30%),
-    var(--ifm-background-color);
+  background: var(--ifm-background-color);
 }
 
 .navbar {
   border-top: 4px solid #565b66;
-  border-bottom: 1px solid #e3ddd6;
+  border-bottom: 1px solid #e5e7eb;
   box-shadow: 0 8px 20px rgba(27, 16, 13, 0.06);
 }
 
@@ -62,14 +59,14 @@ body {
 
 .button--secondary {
   color: #5b1714;
-  border-color: #d5c9bf;
-  background: #fffdfb;
+  border-color: #d1d5db;
+  background: #ffffff;
 }
 
 .button--secondary:hover {
   color: #4e1411;
-  border-color: #c5b5a8;
-  background: #f8f2ec;
+  border-color: #9ca3af;
+  background: #f9fafb;
 }
 
 .markdown h1,
