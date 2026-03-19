@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'RGUKT Placement Guide',
+  title: 'Computer Science and Engineering',
   tagline: 'Official placement preparation portal for RGUKT students',
   favicon: 'img/rgukt.png',
 
@@ -46,6 +46,12 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         blog: {
+          blogTitle: 'RGUKT Senior Placement Stories',
+          blogDescription:
+            'Placement preparation experiences shared by RGUKT seniors with practical strategies and resources.',
+          postsPerPage: 6,
+          blogSidebarTitle: 'Senior Sections',
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -73,7 +79,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'RGUKT Placement Guide',
+        title: 'CSE',
         logo: {
           alt: 'RGUKT Logo',
           src: 'img/rgukt.png',

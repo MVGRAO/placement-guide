@@ -1,4 +1,19 @@
-﻿dsa:
+senior-story:
+  label: Senior Story
+  permalink: /senior-story
+  description: Practical placement experiences shared by RGUKT seniors
+
+placement-journey:
+  label: Placement Journey
+  permalink: /placement-journey
+  description: End-to-end preparation and interview journey posts
+
+aptitude:
+  label: Aptitude
+  permalink: /aptitude
+  description: Aptitude and reasoning preparation tips
+
+dsa:
   label: DSA
   permalink: /dsa
   description: Data structures and algorithms preparation
@@ -8,13 +23,17 @@ sql:
   permalink: /sql
   description: SQL learning and interview preparation
 
-placement:
-  label: Placement
-  permalink: /placement
-  description: Placement process and strategy updates
+resume:
+  label: Resume
+  permalink: /resume
+  description: Resume building and ATS optimization guidance
+
+core-cs:
+  label: Core CS
+  permalink: /core-cs
+  description: Operating systems, DBMS, CN, OOP, and software engineering basics
 
 interview:
   label: Interview
   permalink: /interview
-  description: Interview round preparation updates
-
+  description: Interview preparation techniques and round strategies
