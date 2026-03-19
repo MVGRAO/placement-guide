@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Source+Sans+3:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700;800;900&display=swap');
 
 :root {
   --ifm-color-primary: #7c1f1b;
@@ -13,8 +13,8 @@
   --ifm-background-surface-color: #ffffff;
   --ifm-navbar-background-color: #ffffff;
   --ifm-footer-background-color: #ffffff;
-  --ifm-font-family-base: 'Source Sans 3', 'Segoe UI', sans-serif;
-  --ifm-heading-font-family: 'Merriweather', 'Times New Roman', serif;
+  --ifm-font-family-base: 'Urbanist', 'Segoe UI', sans-serif;
+  --ifm-heading-font-family: 'Urbanist', 'Segoe UI', sans-serif;
   --ifm-code-font-size: 94%;
   --ifm-link-color: #7c1f1b;
   --ifm-heading-color: #651915;
