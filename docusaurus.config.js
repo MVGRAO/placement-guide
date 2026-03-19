@@ -143,7 +143,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright (c) ${new Date().getFullYear()} University Placement Guide. Built with Docusaurus.`,
+        copyright: `Copyright (c) ${new Date().getFullYear()} RGUKT-Nuzvid(CSE).`,
       },
       prism: {
         theme: prismThemes.github,
