@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "admin": "node scripts/blog-admin.mjs",
     "docusaurus": "docusaurus",
     "dev": "docusaurus start",
     "start": "docusaurus start",

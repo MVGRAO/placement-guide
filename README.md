@@ -106,6 +106,22 @@ sidebar_position: 3
 
 ## Add New Blog Post
 
+### Browser Form
+
+1. Run:
+
+```bash
+npm run admin
+```
+
+2. Open `http://localhost:4321`.
+3. Fill the form and submit.
+4. The form creates a new Markdown file in `blog/`.
+5. If you create a new author, it also appends that author to `blog/authors.yml`.
+6. Review the generated file, then commit and push.
+
+### Manual Markdown
+
 1. Create a new Markdown file in `blog/`.
 2. Add front matter:
 
