@@ -46,11 +46,11 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         blog: {
-          blogTitle: 'RGUKT Senior Placement Stories',
+          blogTitle: 'RGUKT Placement Stories and Guides',
           blogDescription:
-            'Placement preparation experiences shared by RGUKT seniors with practical strategies and resources.',
+            'Placement stories, resume guides, interview tips, and practical preparation resources for RGUKT students.',
           postsPerPage: 6,
-          blogSidebarTitle: 'Senior Sections',
+          blogSidebarTitle: 'Stories and Guides',
           blogSidebarCount: 'ALL',
           showReadingTime: true,
           feedOptions: {

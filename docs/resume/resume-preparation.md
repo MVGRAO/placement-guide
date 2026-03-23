@@ -27,3 +27,7 @@ A strong resume can significantly increase shortlist chances.
 
 Tailor your resume for every role before applying.
 
+## See Also
+
+- [Bad Resume vs Good Resume: What Actually Gets Shortlisted](/blog/resume/bad-vs-good-resume-comparison)
+

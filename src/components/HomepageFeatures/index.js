@@ -9,9 +9,9 @@ const FeatureList = [
       'Follow curated preparation tracks across DSA, SQL, Java, Core CS, Full Stack, and AI / ML.',
   },
   {
-    title: 'Interview Insights',
+    title: 'Stories and Practical Guides',
     description:
-      'Access regular updates on interview patterns, coding rounds, and revision priorities shared by seniors.',
+      'Read senior experiences along with focused guides for resumes, interviews, coding rounds, and revision priorities.',
   },
   {
     title: 'Simple Content Workflow',

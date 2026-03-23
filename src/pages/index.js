@@ -21,7 +21,7 @@ function HomepageHeader() {
             Explore Placement Docs
           </Link>
           <Link className="button button--secondary button--lg" to="/blog">
-            View Blog Updates
+            Explore Stories and Guides
           </Link>
         </div>
       </div>
