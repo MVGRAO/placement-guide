@@ -37,6 +37,10 @@ const config = {
     locales: ['en'],
   },
 
+  customFields: {
+    feedbackFormUrl: 'https://forms.gle/usGbUhznCuHqcEBp9',
+  },
+
   presets: [
     [
       'classic',
