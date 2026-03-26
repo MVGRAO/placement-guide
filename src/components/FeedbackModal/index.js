@@ -46,14 +46,7 @@ export default function FeedbackModal() {
   }
 
   return (
-    <div
-      className={styles.overlay}
-      onClick={(event) => {
-        if (event.target === event.currentTarget) {
-          setIsOpen(false);
-        }
-      }}
-    >
+    <div className={styles.overlay}>
       <div
         className={styles.modal}
         role="dialog"
@@ -69,14 +62,15 @@ export default function FeedbackModal() {
         >
           X
         </button>
-        <span className={styles.badge}>Feedback Request</span>
+        <span className={styles.badge}>Your Feedback Matters</span>
         <h2 id="feedback-modal-title" className={styles.title}>
-          Help Improve This Placement Platform
+          Ask Seniors.....?
         </h2>
         <p id="feedback-modal-description" className={styles.description}>
-          Tell us what is useful, what is missing, and what should be improved
-          for RGUKT students. The form opens in a new tab and takes about two
-          minutes.
+          This platform was created by seniors to support placement preparation,
+          and we would love your feedback. Tell us what is useful, what feels
+          unclear, and what would make it better for students who use it next.
+          The form opens in a new tab and takes about two minutes.
         </p>
         <div className={styles.actions}>
           <a
@@ -86,7 +80,7 @@ export default function FeedbackModal() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Open Feedback Form
+            Give Feedback
           </a>
           <button
             type="button"
@@ -96,10 +90,6 @@ export default function FeedbackModal() {
             Maybe Later
           </button>
         </div>
-        <p className={styles.note}>
-          This prompt appears on each fresh visit so users can easily share
-          feedback.
-        </p>
       </div>
     </div>
   );
